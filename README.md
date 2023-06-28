@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects</h2>
 
-- [F1 2022 Season Analysis for Turbine Timepieces](https://github.com/EmaStehr/F1-2022-Season-Analysis/tree/main)
+- [F1 2022 Season Case Study for Turbine Timepieces](https://github.com/EmaStehr/F1-2022-Season-Analysis/tree/main)
 
 <h2> 🤳 Connect with me</h2>
 
