@@ -12,4 +12,4 @@
 
 [twitter]: https://twitter.com/EmaStehr
 [instagram]: https://www.instagram.com/emastehr/
-[linkedin]: https://www.linkedin.com/in/emanuel-stehr-3a2ba1280/
+[linkedin]: https://www.linkedin.com/in/emanuel-stehr/
