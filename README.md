@@ -1,6 +1,6 @@
 <h1>Hi, I'm Emanuel! 
 
-<h2>👨‍💻 Data Analytics Projects</h2>
+<h2>👨🏼‍💻 Data Analytics Projects</h2>
 
 - [F1 2022 Season Case Study for Turbine Timepieces](https://github.com/EmaStehr/F1-2022-Season-Analysis/tree/main)
 
@@ -9,7 +9,7 @@
 - [Accidents Tableau Dashboard](https://github.com/EmaStehr/Accidents-Tableau-Dashboard)
 - [Coffee Sales Excel Dashboard]
 
-<h2> 🤳 Connect with me</h2>
+<h2>🤳🏼 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
