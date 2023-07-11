@@ -4,6 +4,11 @@
 
 - [F1 2022 Season Case Study for Turbine Timepieces](https://github.com/EmaStehr/F1-2022-Season-Analysis/tree/main)
 
+<h3>Dashboards</h3>
+
+- [Accidents Tableau Dashboard]
+- [Coffee Sales Excel Dashboard]
+
 <h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
