@@ -6,7 +6,7 @@
 
 <h3>Dashboards</h3>
 
-- [Accidents Tableau Dashboard]
+- [Accidents Tableau Dashboard](https://github.com/EmaStehr/Accidents-Tableau-Dashboard)
 - [Coffee Sales Excel Dashboard]
 
 <h2> 🤳 Connect with me</h2>
