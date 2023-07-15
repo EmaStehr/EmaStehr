@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emanuel! 
+<h1>Hi there👋🏼, I'm Emanuel! 
 
 <h2>🛠️ Languages and Tools</h2>
 
