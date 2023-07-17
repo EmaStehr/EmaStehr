@@ -9,7 +9,6 @@
 <img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://github.com/EmaStehr/EmaStehr/assets/114269507/b5dfb284-5b52-4668-a2fb-69e847932011" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/EmaStehr/EmaStehr/assets/114269507/b97e57e1-d1d9-4d43-b238-597f4d8c3b1e" />
 <img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://github.com/EmaStehr/EmaStehr/assets/114269507/c22b2a2b-3086-445c-9565-d05442c13607" />
-<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://github.com/EmaStehr/EmaStehr/assets/114269507/5da7ac09-4a2a-4cc3-ade3-298c89fcee1b" />
 <br />
 
 #
