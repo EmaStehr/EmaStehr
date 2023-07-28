@@ -21,6 +21,10 @@
 - [Accidents Tableau Dashboard](https://github.com/EmaStehr/Accidents-Tableau-Dashboard)
 - [Excel Dashboards](https://github.com/EmaStehr/Excel-Dashboards)
 
+<h3>Machine Learning Projects</h3>
+
+- [ML Anlysis Projects](https://github.com/EmaStehr/Machine-Learning-Algorithms)
+
 <h2>🤳🏼 Connect with me</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
