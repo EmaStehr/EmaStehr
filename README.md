@@ -19,6 +19,7 @@
 <h3>Dashboards</h3>
 
 - [Accidents Tableau Dashboard](https://github.com/EmaStehr/Accidents-Tableau-Dashboard)
+- [Power Bi](https://github.com/EmaStehr/Power-Bi)
 - [Excel Dashboards](https://github.com/EmaStehr/Excel-Dashboards)
 
 <h3>Machine Learning Projects</h3>
