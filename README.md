@@ -28,6 +28,8 @@
 
 <h2>🤳🏼 Connect with me</h2>
 
+Pay a look at my Webpage at [Notion](https://emastehr.notion.site/emastehr/Emanuel-Stehr-Data-Analyst-1a1f26d2f5a44b27b622b55779ee6c2e)!
+
 [<img align="left" alt="JoshMadakor | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
